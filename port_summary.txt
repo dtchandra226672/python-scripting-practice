@@ -1,0 +1,9 @@
+----------------------------
+Port Scan Summary
+---------------------------- 
+192.168.1.10    : 3 scanned, 2 open, 1 closed
+192.168.1.15    : 2 scanned, 1 open, 1 closed
+192.168.1.20    : 2 scanned, 1 open, 1 closed
+----------------------------
+Total IPs       : 3
+Total Ports     : 7

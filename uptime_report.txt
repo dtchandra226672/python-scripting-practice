@@ -1,0 +1,8 @@
+----------------------------
+Server Health Summary
+---------------------------- 
+SERVER01        : 01d 00h 00m 00s 
+SERVER02        : 00d 12h 00m 00s !! LOW UPTIME !!
+SERVER03        : 02d 00h 00m 00s 
+SERVER04        : 21080d 02h 35m 00s 
+----------------------------

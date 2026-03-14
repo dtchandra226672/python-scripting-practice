@@ -1,0 +1,8 @@
+----------------------------
+Disk Usage Report
+----------------------------
+Path            : C:\Users
+Total Space     : 476.05 GB
+Used Space      : 154.48 GB
+Free Space      : 321.57 GB
+Usage           : 32.45%

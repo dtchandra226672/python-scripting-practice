@@ -1,0 +1,8 @@
+01:29:19 -> 1.1.1.1 is reachable
+01:29:19 -> 8.8.8.8 is reachable
+01:29:19 -> 192.168.0.1 is reachable
+01:29:19 -> 10.0.0.1 is unreachable
+[2025-07-14 01:33:50] 1.1.1.1 is reachable
+[2025-07-14 01:33:50] 8.8.8.8 is reachable
+[2025-07-14 01:33:50] 192.168.0.1 is reachable
+[2025-07-14 01:33:53] 10.0.0.1 is unreachable

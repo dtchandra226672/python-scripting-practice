@@ -1,0 +1,5 @@
+[ALERT] 2025-07-19 08:00:00 - server2 -  CPU: 91%                               (CRITICAL) 
+[ALERT] 2025-07-19 08:00:00 - server3 -                               DISK: 93% (CRITICAL) 
+[ALERT] 2025-07-19 08:00:00 - server4 -              MEMORY: 91%                (CRITICAL) 
+[ALERT] 2025-07-19 09:00:00 - server2 -  CPU: 92%    MEMORY: 87%                (CRITICAL) 
+[ALERT] 2025-07-19 09:00:00 - server4 -              MEMORY: 86%      DISK: 95% (CRITICAL) 
